@@ -1,6 +1,6 @@
 package cn.lix.spring.oauth2.sdk.dao;
 
-import cn.lix.spring.oauth2.entity.TbRole;
+import cn.lix.spring.oauth2.sdk.entity.TbRole;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**
