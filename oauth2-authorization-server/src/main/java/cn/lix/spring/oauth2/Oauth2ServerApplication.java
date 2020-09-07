@@ -7,7 +7,7 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 
 @SpringBootApplication
 @EnableDiscoveryClient
-@MapperScan("cn.lix.spring.oauth2.dao")
+@MapperScan("cn.lix.spring.oauth2.sdk.dao")
 public class Oauth2ServerApplication {
 
 
